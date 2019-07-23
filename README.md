@@ -2,10 +2,10 @@
 
 Dependencies:
 
-scikit
-matplotlib
-numpy
-openslide
+- scikit
+- matplotlib
+- numpy
+- openslide
 
 Openslide installation instructions:
 Linux:
