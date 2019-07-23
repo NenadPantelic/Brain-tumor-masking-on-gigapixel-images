@@ -33,4 +33,5 @@ If you wan't to convert other images you must download ASAP:
 https://github.com/computationalpathologygroup/ASAP/releases
 
 
-
+Here you can find some slides converted to tiff:
+https://drive.google.com/drive/folders/1rwWL8zU9v0M27BtQKI52bF6bVLW82RL5
