@@ -30,8 +30,8 @@ Gigapixel images are converted into an appropriated format with ASAP. Here you c
 https://drive.google.com/drive/folders/1rwWL8zU9v0M27BtQKI52bF6bVLW82RL5
 
 In this project we used 91st image example. So you can download it from the link above and put it in dataset directory, so that path looks like:
-dataset/tumor_091.tif
-dataset/tumor_091_mask.tif
+1) dataset/tumor_091.tif
+2) dataset/tumor_091_mask.tif
 
 If you wan't to convert other images you must download ASAP:
 https://github.com/computationalpathologygroup/ASAP/releases
